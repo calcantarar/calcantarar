@@ -5,15 +5,13 @@ I am a Microbiology student (Top 3rd) at **UNMSM**, passionate about bridging th
 
 🌱 **I’m currently learning:**
 * Machine Learning for Healthcare.
-* Next-Generation Sequencing (NGS) pipelines.
+* Next-Generation Sequencing (NGS) and drug repurposing pipelines.
 
 🛠️ **Languages and Tools:**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyMOL-A0A0A0?style=for-the-badge&logo=molecule&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 📊 **My Stats:**
