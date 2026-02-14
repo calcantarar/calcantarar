@@ -4,7 +4,6 @@
 I am a Microbiology student (Top 3rd) at **UNMSM**, passionate about bridging the gap between clinical biology and data science. My goal is to apply computational tools to solve challenges in **Antimicrobial Resistance (AMR)** and **Public Health**.
 
 🌱 **I’m currently learning:**
-* Machine Learning for Healthcare.
 * Next-Generation Sequencing (NGS) and drug repurposing pipelines.
 * Molecular Epidemiology applied to infectious disease.
 
