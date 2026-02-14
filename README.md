@@ -6,6 +6,7 @@ I am a Microbiology student (Top 3rd) at **UNMSM**, passionate about bridging th
 🌱 **I’m currently learning:**
 * Machine Learning for Healthcare.
 * Next-Generation Sequencing (NGS) and drug repurposing pipelines.
+* Molecular Epidemiology applied to infectious disease.
 
 🛠️ **Languages and Tools:**
 <p align="left">
