@@ -13,6 +13,3 @@ I am a Microbiology student (Top 3rd) at **UNMSM**, passionate about bridging th
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
-📊 **My Stats:**
-![César's GitHub stats](https://github-readme-stats.vercel.app/api?username=calcantarar&show_icons=true&theme=radical)
