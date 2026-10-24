@@ -60,5 +60,5 @@ I'm exploring **Biotechnology** in its broadest sense — from synthetic biology
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=calcantarar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
