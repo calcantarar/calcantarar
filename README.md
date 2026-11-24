@@ -44,9 +44,9 @@ PCR • qPCR • Western Blot • Bacterial Transformation • Electroporation �
 
 ## 🌍 Community & Teaching
 
-- 🧑‍🔬 **Volunteer** at [ISCB Student Council — RSG Peru](https://www.iscb.org/iscb-student-council)
-- 🎓 **Instructor** of Molecular Docking & Bioinformatics workshops for undergrad students
-- 📢 **Teaching Assistant** in Molecular Microbiology, Microbial Genetics & General Microbiology at UNMSM
+- **Volunteer** at [ISCB Student Council — RSG Peru](https://www.iscb.org/iscb-student-council)
+- **Instructor** of Molecular Docking & Bioinformatics workshops for undergrad students
+- **Teaching Assistant** in Molecular Microbiology, Microbial Genetics & General Microbiology at UNMSM
 
 ---
 
